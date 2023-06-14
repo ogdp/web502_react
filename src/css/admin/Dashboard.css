@@ -1,0 +1,8 @@
+.ant-layout .ant-layout-header {
+  color: #444444 !important;
+}
+.ant-layout .ant-layout-header .control .iconSetting span svg {
+  font-size: 22px !important;
+  margin: 0 10px;
+  margin-bottom: -4px;
+}

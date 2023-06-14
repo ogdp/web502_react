@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Jude skinny-fit jeans",
+      "price": 1000000,
+      "image": "http://res.cloudinary.com/minhduc/image/upload/v1680797626/freeImage/sml53ihwbuawpegznktw.webp",
+      "description": "Quần jeans là một trong những loại quần phổ biến nhất trên thế giới. Với chất liệu vải denim bền chắc và độ bền cao, quần jeans trở thành lựa chọn ưa thích của rất nhiều người. Với nhiều kiểu dáng và màu sắc khác nhau, quần jeans có thể phù hợp với nhiều phong cách thời trang khác nhau. Chúng có thể được kết hợp với áo thun, áo sơ mi hay áo khoác, tạo nên vẻ ngoài thời trang và trẻ trung. Không chỉ thế, quần jeans còn rất tiện lợi và dễ dàng để sử dụng trong nhiều hoàn cảnh khác nhau, từ đi làm đến đi chơi hay tham gia các hoạt động thể thao.",
+      "categoryID": 3
+    },
+    {
+      "name": "Jude skinny-fit jeans",
+      "price": 1000000,
+      "image": "http://res.cloudinary.com/minhduc/image/upload/v1680797489/freeImage/g2a8jv6vt4vx6kkurudp.webp",
+      "description": "Quần jeans là một trong những loại quần phổ biến nhất trên thế giới. Với chất liệu vải denim bền chắc và độ bền cao, quần jeans trở thành lựa chọn ưa thích của rất nhiều người. Với nhiều kiểu dáng và màu sắc khác nhau, quần jeans có thể phù hợp với nhiều phong cách thời trang khác nhau. Chúng có thể được kết hợp với áo thun, áo sơ mi hay áo khoác, tạo nên vẻ ngoài thời trang và trẻ trung. Không chỉ thế, quần jeans còn rất tiện lợi và dễ dàng để sử dụng trong nhiều hoàn cảnh khác nhau, từ đi làm đến đi chơi hay tham gia các hoạt động thể thao.",
+      "categoryID": 3,
+      "id": 58
+    },
+    {
+      "name": "Jude skinny-fit jeans",
+      "price": 600000,
+      "image": "http://res.cloudinary.com/minhduc/image/upload/v1680797653/freeImage/hxyxxw9eovkw08moduxg.webp",
+      "description": "Quần jeans là một trong những loại quần phổ biến nhất trên thế giới. Với chất liệu vải denim bền chắc và độ bền cao, quần jeans trở thành lựa chọn ưa thích của rất nhiều người. Với nhiều kiểu dáng và màu sắc khác nhau, quần jeans có thể phù hợp với nhiều phong cách thời trang khác nhau. Chúng có thể được kết hợp với áo thun, áo sơ mi hay áo khoác, tạo nên vẻ ngoài thời trang và trẻ trung. Không chỉ thế, quần jeans còn rất tiện lợi và dễ dàng để sử dụng trong nhiều hoàn cảnh khác nhau, từ đi làm đến đi chơi hay tham gia các hoạt động thể thao.",
+      "categoryID": 3,
+      "id": 593
+    },
+    {
+      "name": "Quần short denim",
+      "price": "600001",
+      "image": "http://res.cloudinary.com/minhduc/image/upload/v1680797875/freeImage/t1o2gbmz3ggnswcmmstw.webp",
+      "description": "Quần short là một loại quần ngắn, thường được làm từ chất liệu vải nhẹ và thoáng khí, thích hợp cho những ngày nóng bức hoặc khi tham gia các hoạt động ngoài trời. Với kiểu dáng đa dạng, quần short có thể được kết hợp với nhiều loại áo khác nhau, từ áo thun đến áo sơ mi hay áo phông, tạo nên nhiều phong cách thời trang khác nhau. Ngoài ra, quần short còn rất tiện lợi và dễ dàng để sử dụng trong nhiều hoàn cảnh khác nhau, từ đi chơi, đi biển cho đến tham gia các hoạt động thể thao.",
+      "categoryID": 4,
+      "id": 594
+    },
+    {
+      "name": "Quần short chạy bộ",
+      "price": 300000,
+      "image": "http://res.cloudinary.com/minhduc/image/upload/v1680797907/freeImage/mim4nw3qlnhop7lyco0p.webp",
+      "description": "Quần short là một loại quần ngắn, thường được làm từ chất liệu vải nhẹ và thoáng khí, thích hợp cho những ngày nóng bức hoặc khi tham gia các hoạt động ngoài trời. Với kiểu dáng đa dạng, quần short có thể được kết hợp với nhiều loại áo khác nhau, từ áo thun đến áo sơ mi hay áo phông, tạo nên nhiều phong cách thời trang khác nhau. Ngoài ra, quần short còn rất tiện lợi và dễ dàng để sử dụng trong nhiều hoàn cảnh khác nhau, từ đi chơi, đi biển cho đến tham gia các hoạt động thể thao.",
+      "categoryID": 4,
+      "id": 592
+    },
+    {
+      "name": "Quần short kaki",
+      "price": 200000,
+      "image": "http://res.cloudinary.com/minhduc/image/upload/v1680797955/freeImage/biwpnztikx81gl1vmcgt.webp",
+      "description": "Quần short là một loại quần ngắn, thường được làm từ chất liệu vải nhẹ và thoáng khí, thích hợp cho những ngày nóng bức hoặc khi tham gia các hoạt động ngoài trời. Với kiểu dáng đa dạng, quần short có thể được kết hợp với nhiều loại áo khác nhau, từ áo thun đến áo sơ mi hay áo phông, tạo nên nhiều phong cách thời trang khác nhau. Ngoài ra, quần short còn rất tiện lợi và dễ dàng để sử dụng trong nhiều hoàn cảnh khác nhau, từ đi chơi, đi biển cho đến tham gia các hoạt động thể thao.",
+      "categoryID": 4,
+      "id": 5933
+    },
+    {
+      "name": "Áo khoác da lộn xanh rêu cao cấp",
+      "price": 1000000,
+      "image": "http://res.cloudinary.com/minhduc/image/upload/v1680798035/freeImage/oxgmjfumcnhxr0cudvcv.webp",
+      "description": "Áo khoác da là một trong những loại áo khoác phổ biến nhất trên thế giới, với chất liệu da bền đẹp và thể hiện phong cách thời trang cá tính. Áo khoác da có nhiều kiểu dáng và màu sắc khác nhau, từ kiểu dáng cổ điển đến kiểu dáng hiện đại, phù hợp với nhiều phong cách thời trang khác nhau. Chúng có thể được kết hợp với quần jeans, quần âu hay quần shorts, tạo nên vẻ ngoài thời trang và mạnh mẽ. Không chỉ thế, áo khoác da còn là một trong những sản phẩm thời trang đáng đầu tư, bởi chúng có độ bền cao và có thể sử dụng trong nhiều mùa.",
+      "categoryID": 1,
+      "id": 5922
+    },
+    {
+      "name": "Áo khoác basic",
+      "price": 600000,
+      "image": "http://res.cloudinary.com/minhduc/image/upload/v1680798117/freeImage/lpbxg0nhfvcuojkgmo71.jpg",
+      "description": "Áo khoác da là một trong những loại áo khoác phổ biến nhất trên thế giới, với chất liệu da bền đẹp và thể hiện phong cách thời trang cá tính. Áo khoác da có nhiều kiểu dáng và màu sắc khác nhau, từ kiểu dáng cổ điển đến kiểu dáng hiện đại, phù hợp với nhiều phong cách thời trang khác nhau. Chúng có thể được kết hợp với quần jeans, quần âu hay quần shorts, tạo nên vẻ ngoài thời trang và mạnh mẽ. Không chỉ thế, áo khoác da còn là một trong những sản phẩm thời trang đáng đầu tư, bởi chúng có độ bền cao và có thể sử dụng trong nhiều mùa.",
+      "categoryID": 2,
+      "id": 5912
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Áo khoác da"
+    },
+    {
+      "id": 2,
+      "name": "Áo khoác"
+    },
+    {
+      "name": "Quần jeans",
+      "id": 3
+    },
+    {
+      "name": "Quần short",
+      "id": 4
+    },
+    {
+      "name": "Áo polo",
+      "id": 5
+    }
+  ]
+}
